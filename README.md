@@ -1,4 +1,3 @@
-
 #  Bitcoin Ticker
 
 ## Our Goal
